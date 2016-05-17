@@ -1,0 +1,33 @@
+{
+    "app": {
+        "loading": "Ielādē...",
+        "offline": "Nevar savienoties gadījumā neesi bezsaistē?",
+        "logginIn": "Ielogojas..."
+    },
+    "error": {
+        "insufficientRights": "Tev nepietiek tiesību, lai veiktu šādas darbības."
+    },
+    "buttons": {
+        "ok": "LABI",
+        "cancel": "Atcelt",
+        "save": "Saglabāt",
+        "edit": "labot",
+        "send": "Nosūtīt",
+        "sending": "Sūta...",
+        "create": "Izveidot",
+        "select": "Izvēlēties",
+        "tryToReconnect": "Mēģina savienoties"
+    },
+    "commonWords": {
+        "you": "Tu",
+        "send": "Nosūtīt",
+        "or": "vai",
+        "of": "no",
+        "with": "ar",
+        "and": "un",
+        "on": "uz",
+        "per": "par",
+        "total":"kopā",
+        "at": "pie"
+    }
+}
